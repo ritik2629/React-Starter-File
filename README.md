@@ -9,8 +9,8 @@ And Run
 
 ### `To update The dependencies in package.json`
 
-npm-check-updates ===> To check The version
-npm-check-updates -u ===> To update To The Latest Version
+### `npm-check-updates ===> To check The version`
+### `npm-check-updates -u ===> To update To The Latest Version`
 
 
 
