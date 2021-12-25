@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
-This is Boiler Plate of React 
-Download ZIP file.......
+### `This is Boiler Plate of React` 
+### `Download ZIP file.......`
 
-And Run 
+### `And Run` 
 
 ### `npm install`
 
